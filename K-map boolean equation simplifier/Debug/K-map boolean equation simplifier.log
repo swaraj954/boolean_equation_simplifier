@@ -1,0 +1,22 @@
+﻿  K-map boolean equation simplifier.cpp
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\Squares.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(141,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(216,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(253,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(265,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(379,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(399,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(418,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(422,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(433,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(435,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(448,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(453,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\K-map boolean equation simplifier.cpp(541,20): warning C4018: '<': signed/unsigned mismatch
+  K-map boolean equation simplifier.vcxproj -> C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\Debug\K-map boolean equation simplifier.exe

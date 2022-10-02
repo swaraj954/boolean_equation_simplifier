@@ -1,0 +1,2 @@
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\Debug\K-map boolean equation simplifier.exe
+C:\Users\SWARAJ SONAVANE\source\repos\K-map boolean equation simplifier\Debug\K-map boolean equation simplifier.pdb
